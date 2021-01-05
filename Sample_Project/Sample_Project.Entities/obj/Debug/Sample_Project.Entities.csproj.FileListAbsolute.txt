@@ -1,0 +1,12 @@
+D:\Projects\VisualStudio_Projects\Sample_project_git\Sample_Project\Sample_Project.Entities\bin\Debug\Sample_Project.Entities.dll.config
+D:\Projects\VisualStudio_Projects\Sample_project_git\Sample_Project\Sample_Project.Entities\bin\Debug\Sample_Project.Entities.dll
+D:\Projects\VisualStudio_Projects\Sample_project_git\Sample_Project\Sample_Project.Entities\bin\Debug\Sample_Project.Entities.pdb
+D:\Projects\VisualStudio_Projects\Sample_project_git\Sample_Project\Sample_Project.Entities\bin\Debug\EntityFramework.dll
+D:\Projects\VisualStudio_Projects\Sample_project_git\Sample_Project\Sample_Project.Entities\bin\Debug\EntityFramework.SqlServer.dll
+D:\Projects\VisualStudio_Projects\Sample_project_git\Sample_Project\Sample_Project.Entities\bin\Debug\EntityFramework.xml
+D:\Projects\VisualStudio_Projects\Sample_project_git\Sample_Project\Sample_Project.Entities\bin\Debug\EntityFramework.SqlServer.xml
+D:\Projects\VisualStudio_Projects\Sample_project_git\Sample_Project\Sample_Project.Entities\obj\Debug\Sample_Project.Entities.csprojAssemblyReference.cache
+D:\Projects\VisualStudio_Projects\Sample_project_git\Sample_Project\Sample_Project.Entities\obj\Debug\Sample_Project.Entities.csproj.CoreCompileInputs.cache
+D:\Projects\VisualStudio_Projects\Sample_project_git\Sample_Project\Sample_Project.Entities\obj\Debug\Sample_Project.Entities.csproj.CopyComplete
+D:\Projects\VisualStudio_Projects\Sample_project_git\Sample_Project\Sample_Project.Entities\obj\Debug\Sample_Project.Entities.dll
+D:\Projects\VisualStudio_Projects\Sample_project_git\Sample_Project\Sample_Project.Entities\obj\Debug\Sample_Project.Entities.pdb

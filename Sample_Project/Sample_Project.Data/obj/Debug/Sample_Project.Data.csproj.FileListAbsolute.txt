@@ -1,0 +1,15 @@
+D:\Projects\VisualStudio_Projects\Sample_project_git\Sample_Project\Sample_Project.Data\bin\Debug\Sample_Project.Data.dll.config
+D:\Projects\VisualStudio_Projects\Sample_project_git\Sample_Project\Sample_Project.Data\bin\Debug\Sample_Project.Data.dll
+D:\Projects\VisualStudio_Projects\Sample_project_git\Sample_Project\Sample_Project.Data\bin\Debug\Sample_Project.Data.pdb
+D:\Projects\VisualStudio_Projects\Sample_project_git\Sample_Project\Sample_Project.Data\bin\Debug\EntityFramework.dll
+D:\Projects\VisualStudio_Projects\Sample_project_git\Sample_Project\Sample_Project.Data\bin\Debug\EntityFramework.SqlServer.dll
+D:\Projects\VisualStudio_Projects\Sample_project_git\Sample_Project\Sample_Project.Data\bin\Debug\Sample_Project.Entities.dll
+D:\Projects\VisualStudio_Projects\Sample_project_git\Sample_Project\Sample_Project.Data\bin\Debug\Sample_Project.Entities.pdb
+D:\Projects\VisualStudio_Projects\Sample_project_git\Sample_Project\Sample_Project.Data\bin\Debug\Sample_Project.Entities.dll.config
+D:\Projects\VisualStudio_Projects\Sample_project_git\Sample_Project\Sample_Project.Data\bin\Debug\EntityFramework.xml
+D:\Projects\VisualStudio_Projects\Sample_project_git\Sample_Project\Sample_Project.Data\bin\Debug\EntityFramework.SqlServer.xml
+D:\Projects\VisualStudio_Projects\Sample_project_git\Sample_Project\Sample_Project.Data\obj\Debug\Sample_Project.Data.csprojAssemblyReference.cache
+D:\Projects\VisualStudio_Projects\Sample_project_git\Sample_Project\Sample_Project.Data\obj\Debug\Sample_Project.Data.csproj.CoreCompileInputs.cache
+D:\Projects\VisualStudio_Projects\Sample_project_git\Sample_Project\Sample_Project.Data\obj\Debug\Sample_Project.Data.csproj.CopyComplete
+D:\Projects\VisualStudio_Projects\Sample_project_git\Sample_Project\Sample_Project.Data\obj\Debug\Sample_Project.Data.dll
+D:\Projects\VisualStudio_Projects\Sample_project_git\Sample_Project\Sample_Project.Data\obj\Debug\Sample_Project.Data.pdb
